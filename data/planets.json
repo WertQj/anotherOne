@@ -1,0 +1,45 @@
+{
+    "nextId": 8,
+    "items": [
+        {
+            "id": 1,
+            "discoverer": "Hall",
+            "name": "Mars",
+            "sat": 2,
+            "mass": 6.3345e+23,
+            "timeDownload": "2017-05-24T18:16:22.036Z"
+        },
+        {
+            "id": 3,
+            "discoverer": "Hassendy",
+            "name": "Mercury",
+            "sat": 0,
+            "mass": 3.2868e+23,
+            "timeDownload": "2019-09-24T18:16:22.036Z"
+        },
+        {
+            "id": 4,
+            "discoverer": "Galileo",
+            "name": "Venus",
+            "sat": "75",
+            "mass": "56",
+            "timeDownload": "2020-10-12T18:19:32.317Z"
+        },
+        {
+            "id": 5,
+            "discoverer": "Humanity",
+            "name": "Earth",
+            "sat": 1,
+            "mass": 5.976e+24,
+            "timeDownload": "2020-07-24T18:16:22.036Z"
+        },
+        {
+            "id": 6,
+            "discoverer": "update/planet/4",
+            "name": "s",
+            "sat": "s",
+            "mass": "ds",
+            "timeDownload": "2020-10-12T18:05:58.570Z"
+        }
+    ]
+}
